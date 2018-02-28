@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoexApiDemo", "MoexApiDemo\MoexApiDemo.csproj", "{B0330BDA-2F03-4E1E-897A-A57C3E12E275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0330BDA-2F03-4E1E-897A-A57C3E12E275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0330BDA-2F03-4E1E-897A-A57C3E12E275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0330BDA-2F03-4E1E-897A-A57C3E12E275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0330BDA-2F03-4E1E-897A-A57C3E12E275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23BD3036-AF5B-49FC-B1AC-23FB82AC1CA4}
+	EndGlobalSection
+EndGlobal
